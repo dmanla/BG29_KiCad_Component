@@ -1,4 +1,4 @@
-# BG29 KiCad Artifcats
+# BG29 KiCad Artifacts
 
 Component artifacts for the creating of schematics and PCB's using the BG29 MCU for SiLabs.
 
